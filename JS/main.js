@@ -326,8 +326,7 @@ const countries = {
       )} to ${subtractDaysFromDate(2).substring(
         3,
         10,
-      )} 🥰 <br/> matches only: send me a ❤️
-          in my DMs`
+      )} 🥰`
     }
   
     const getLocation = async () => {
